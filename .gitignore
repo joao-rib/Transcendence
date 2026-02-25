@@ -1,0 +1,10 @@
+.vscode/
+*.nfs*
+*.DS_Store*
+*obj/
+*.o
+*.a
+a.out
+README.c
+*.txt
+*wip*
